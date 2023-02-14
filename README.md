@@ -9,4 +9,4 @@ https://user-images.githubusercontent.com/82247833/218374802-57b975cd-8107-405a-
 
 
 
-## Project is made with the help of [Scrimba](https://scrimba.com/allcourses) learning resources
+### Project is made with the help of [Scrimba](https://scrimba.com/allcourses) learning resources
